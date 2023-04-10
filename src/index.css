@@ -1,0 +1,25 @@
+body{
+    background: rgb(218, 217, 217);
+}
+.main-wrapper>div{
+    max-width: 900px;
+    width: 90%;
+}
+.todo-card{
+    min-height: 150px;
+    height: 100%;
+}
+.dell-btn{
+    border: 0;
+    width: 17px;
+    height: 17px;
+    font-size: 10px;
+    font-weight: bold;
+    border-radius: 2px;
+    outline: none;
+    text-align: center;
+    transform: translateY(-2px);
+}
+.things-todo {
+    background-color: #DAD9D9;
+}
